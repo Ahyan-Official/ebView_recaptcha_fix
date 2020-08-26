@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "elina_tech app fix"
